@@ -1,0 +1,15 @@
+C:\Users\mayara.lturbiani\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.csproj.AssemblyReference.cache
+C:\Users\mayara.lturbiani\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayara.lturbiani\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\mayara.lturbiani\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.AssemblyInfo.cs
+C:\Users\mayara.lturbiani\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\mayara.lturbiani\source\repos\CaixaEletronico\CaixaEletronico\bin\Debug\net6.0\CaixaEletronico.exe
+C:\Users\mayara.lturbiani\source\repos\CaixaEletronico\CaixaEletronico\bin\Debug\net6.0\CaixaEletronico.deps.json
+C:\Users\mayara.lturbiani\source\repos\CaixaEletronico\CaixaEletronico\bin\Debug\net6.0\CaixaEletronico.runtimeconfig.json
+C:\Users\mayara.lturbiani\source\repos\CaixaEletronico\CaixaEletronico\bin\Debug\net6.0\CaixaEletronico.dll
+C:\Users\mayara.lturbiani\source\repos\CaixaEletronico\CaixaEletronico\bin\Debug\net6.0\CaixaEletronico.pdb
+C:\Users\mayara.lturbiani\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.dll
+C:\Users\mayara.lturbiani\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\refint\CaixaEletronico.dll
+C:\Users\mayara.lturbiani\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.pdb
+C:\Users\mayara.lturbiani\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.genruntimeconfig.cache
+C:\Users\mayara.lturbiani\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\ref\CaixaEletronico.dll

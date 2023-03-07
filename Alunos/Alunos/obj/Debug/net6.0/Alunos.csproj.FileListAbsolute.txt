@@ -1,0 +1,15 @@
+C:\Users\mayara.lturbiani\source\repos\Alunos\Alunos\obj\Debug\net6.0\Alunos.csproj.AssemblyReference.cache
+C:\Users\mayara.lturbiani\source\repos\Alunos\Alunos\obj\Debug\net6.0\Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayara.lturbiani\source\repos\Alunos\Alunos\obj\Debug\net6.0\Alunos.AssemblyInfoInputs.cache
+C:\Users\mayara.lturbiani\source\repos\Alunos\Alunos\obj\Debug\net6.0\Alunos.AssemblyInfo.cs
+C:\Users\mayara.lturbiani\source\repos\Alunos\Alunos\obj\Debug\net6.0\Alunos.csproj.CoreCompileInputs.cache
+C:\Users\mayara.lturbiani\source\repos\Alunos\Alunos\bin\Debug\net6.0\Alunos.exe
+C:\Users\mayara.lturbiani\source\repos\Alunos\Alunos\bin\Debug\net6.0\Alunos.deps.json
+C:\Users\mayara.lturbiani\source\repos\Alunos\Alunos\bin\Debug\net6.0\Alunos.runtimeconfig.json
+C:\Users\mayara.lturbiani\source\repos\Alunos\Alunos\bin\Debug\net6.0\Alunos.dll
+C:\Users\mayara.lturbiani\source\repos\Alunos\Alunos\bin\Debug\net6.0\Alunos.pdb
+C:\Users\mayara.lturbiani\source\repos\Alunos\Alunos\obj\Debug\net6.0\Alunos.dll
+C:\Users\mayara.lturbiani\source\repos\Alunos\Alunos\obj\Debug\net6.0\refint\Alunos.dll
+C:\Users\mayara.lturbiani\source\repos\Alunos\Alunos\obj\Debug\net6.0\Alunos.pdb
+C:\Users\mayara.lturbiani\source\repos\Alunos\Alunos\obj\Debug\net6.0\Alunos.genruntimeconfig.cache
+C:\Users\mayara.lturbiani\source\repos\Alunos\Alunos\obj\Debug\net6.0\ref\Alunos.dll
